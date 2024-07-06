@@ -3,7 +3,7 @@
 client_id = "8f00a5e78889acecc795ed365cbe9a9e"
 name = "test-project"
 handle = "test-project-99"
-application_url = "https://material-adams-week-america.trycloudflare.com"
+application_url = "https://shopify-test-project.onrender.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://material-adams-week-america.trycloudflare.com/auth/callback",
-  "https://material-adams-week-america.trycloudflare.com/auth/shopify/callback",
-  "https://material-adams-week-america.trycloudflare.com/api/auth/callback"
+  "https://shopify-test-project.onrender.com/auth/callback",
+  "https://shopify-test-project.onrender.com/auth/shopify/callback",
+  "https://shopify-test-project.onrender.com/api/auth/callback"
 ]
 
 [webhooks]
