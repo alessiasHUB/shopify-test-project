@@ -46,6 +46,13 @@ export default defineConfig({
   plugins: [
     remix({
       ignoredRouteFiles: ["**/.*"],
+      // routes(defineRoutes) {
+      // Route configuration docs:
+      // https://remix.run/docs/en/main/discussion/routes
+      // return defineRoutes((route) => {
+      //   route("techTest", "techTest/route.tsx");
+      // });
+      // },
     }),
     tsconfigPaths(),
   ],
