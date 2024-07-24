@@ -275,7 +275,7 @@ body {
   @media (max-width: 768px) {
     padding: 1vh 2vw 1.3vh 1vw;
     max-height: 7vh;
-    max-width: 12vw;
+    max-width: 13vw;
   }
 
   @media (max-width: 480px) {
@@ -292,7 +292,7 @@ body {
   animation: fadeIn 2s forwards;
 
   @media (max-width: 768px) {
-    font-size: 1.7vw;
+    font-size: 1.6vw;
   }
 
   @media (max-width: 480px) {
@@ -329,7 +329,7 @@ body {
 
   @media (max-width: 768px) {
     margin: 0.5vh 0.5vw 0.5vh 0;
-    width: 4vw;
+    width: 3.5vw;
   }
 
   @media (max-width: 480px) {
@@ -353,7 +353,6 @@ body {
   }
 
   @media (max-width: 768px) {
-    max-width: 51vw;
     margin: 3vh 0 0 0;
   }
 }
@@ -372,7 +371,6 @@ body {
   }
 
   @media (max-width: 768px) {
-    max-width: 52.5vw;
     margin: 2.9vh 0 2.9vh 0;
   }
 }
@@ -390,7 +388,7 @@ body {
   }
 
   @media (max-width: 768px) {
-    font-size: 2vw;
+    font-size: 2.4vw;
   }
 }
 
