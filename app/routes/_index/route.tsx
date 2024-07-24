@@ -57,7 +57,7 @@ export default function App() {
           </li>
 
           <li className={styles.callOut}>
-            <span className={styles.callOutLine}> ____________ </span>
+            <span className={styles.callOutLine}> ___________ </span>
             <div className={styles.callOutContent}>
               <img src={iconPowClean} alt="" className={styles.callOutIcon} />
               <p className={styles.callOutText}>POWERFUL CLEAN</p>
